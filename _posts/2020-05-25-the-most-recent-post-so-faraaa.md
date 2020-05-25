@@ -2,7 +2,8 @@
 layout: post
 title: The most recent post so faraaa
 author: hjortur
-date: 2020-05-25 14:32:26
+date: 2020-05-25T14:32:26.000Z
+thumbnail: /assets/img/uploads/monerium-hand.png
 intro_paragraph: ""
 categories: misc
 ---
